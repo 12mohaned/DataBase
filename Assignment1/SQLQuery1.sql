@@ -1,8 +1,10 @@
-﻿CREATE TABLE Employee( ID int unique, 
-firstname varchar(250), 
-middlename varchar(250), 
-country varchar(250) ,
-faxnumber int, 
-salary decimal , 
-birthdate DATE, 
-age int );
+Create Table Employee (id int identity(1,1) primary key,
+                       FirstName varchar(250),
+                       MiddleName varchar(250),
+                       LastName varchar(250),
+                       country varchar(250),
+                       faxnumber varchar(250) ,
+                       salary decimal ,
+                       birthdate Datetime, 
+                       age AS (YEAR(CURRENT_TIMESTAMP) - YEAR(birthdate))
+                        ); 
