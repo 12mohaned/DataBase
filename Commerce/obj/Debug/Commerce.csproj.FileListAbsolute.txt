@@ -1,0 +1,10 @@
+/Users/mohanedmashaly/Projects/Commerce/Commerce/obj/Debug/Commerce.csprojAssemblyReference.cache
+/Users/mohanedmashaly/Projects/Commerce/Commerce/bin/Commerce.dll
+/Users/mohanedmashaly/Projects/Commerce/Commerce/bin/Commerce.pdb
+/Users/mohanedmashaly/Projects/Commerce/Commerce/obj/Debug/Commerce.dll
+/Users/mohanedmashaly/Projects/Commerce/Commerce/obj/Debug/Commerce.pdb
+/Users/mohanedmashaly/Projects/Commerce/Commerce/bin/EntityFramework.dll
+/Users/mohanedmashaly/Projects/Commerce/Commerce/bin/EntityFramework.SqlServer.dll
+/Users/mohanedmashaly/Projects/Commerce/Commerce/bin/EntityFramework.xml
+/Users/mohanedmashaly/Projects/Commerce/Commerce/bin/EntityFramework.SqlServer.xml
+/Users/mohanedmashaly/Projects/Commerce/Commerce/obj/Debug/Commerce.csproj.CopyComplete
